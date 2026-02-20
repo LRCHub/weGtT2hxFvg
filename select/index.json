@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FLY HIGH!!",
+  "base_artist": "BURNOUT SYNDROMES",
+  "createdAt": "2026-02-20T07:24:39.681336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly High (feat. French Montana)",
+      "artist": "Lil Durk feat. French Montana",
+      "has_synced": false,
+      "path": "select/01_Fly_High_(feat._French_Montana)_Lil_Durk_feat._French_Montana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly High ft. French Montana",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/02_Fly_High_ft._French_Montana_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly High",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/03_Fly_High_Me_&_My.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly High Goodbye",
+      "artist": "Me & My",
+      "has_synced": false,
+      "path": "select/04_Fly_High_Goodbye_Me_&_My.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly High Butterfly",
+      "artist": "Exilia",
+      "has_synced": true,
+      "path": "select/05_Fly_High_Butterfly_Exilia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLY HIGH!!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/06_FLY_HIGH!!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly High Michelle",
+      "artist": "Enuff Z'Nuff",
+      "has_synced": true,
+      "path": "select/07_Fly_High_Michelle_Enuff_Z'Nuff.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Fly High",
+      "artist": "Jim Jones",
+      "has_synced": true,
+      "path": "select/08_We_Fly_High_Jim_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Fly High",
+      "artist": "Jim Jones",
+      "has_synced": false,
+      "path": "select/09_We_Fly_High_Jim_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly High Michelle",
+      "artist": "Enuff Z'Nuff",
+      "has_synced": true,
+      "path": "select/10_Fly_High_Michelle_Enuff_Z'Nuff.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Fly High (remix)",
+      "artist": "Jim Jones feat. T.I., Diddy, Young Dro & Birdman",
+      "has_synced": false,
+      "path": "select/11_We_Fly_High_(remix)_Jim_Jones_feat._T.I.,_Diddy,_Young_Dro_&_Birdman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly High (Instrumental)",
+      "artist": "DREAMCATCHER",
+      "has_synced": false,
+      "path": "select/12_Fly_High_(Instrumental)_DREAMCATCHER.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "날아올라 (Fly high)",
+      "artist": "드림캐쳐",
+      "has_synced": false,
+      "path": "select/13_날아올라_(Fly_high)_드림캐쳐.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly High Michelle",
+      "artist": "Enuff Z'Nuff",
+      "has_synced": true,
+      "path": "select/14_Fly_High_Michelle_Enuff_Z'Nuff.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Vultures Fly High",
+      "artist": "Renaissance",
+      "has_synced": true,
+      "path": "select/15_The_Vultures_Fly_High_Renaissance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLY HIGH!!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/pl_01_FLY_HIGH!!_BURNOUT_SYNDROMES.txt"
+    }
+  ]
+}
